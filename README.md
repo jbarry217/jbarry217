@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbarry217
 - 👀 I’m interested in all things tech! 
-- 🌱 I’m currently learning how to code! 
+- 🌱 I’m currently learning ServiceNow! 
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me @jenniferlynnebarry@gmail.com
 
